@@ -1,19 +1,19 @@
 # aceker-navigation
 web & amp;notes <br>
-[[菜鸟教程](https://www.runoob.com/)]<br>
-[[typing club](https://www.edclub.com/sportal/)]<br>
-[[exam crafts](https://examcrafts.com/)]<br>
-[[知识麦田](https://zhishimt.com/)]<br>
-[[奇迹秀](https://qijishow.com/)]<br>
-[[萤火虫资源站](https://yhcres.top/)]<br>
-[[cppdot题库](https://www.dotcpp.com/)]<br>
-[[信管网](https://www.cnitpm.com/)]<br>
-[[siki学院](https://www.sikiedu.com/)]<br>
-[[new api](https://api.hcnsec.cn/)]<br>
-[[arm win](https://arkt-7.github.io/woawin/)] <br>
-[[可怜太可怜](https://yun.lian86.top/)] <br>
-[[廖雪峰python网](https://liaoxuefeng.com/index.html)] <br>
-[[free code camp](https://www.freecodecamp.org/)] <br>
-[[W3School](https://www.w3school.com.cn/)] <br>
-[[gitee_web](https://gitee.com/)]<br>
-[[gitcode_web](https://gitcode.com/)]<br>
+[[菜鸟教程](https://www.runoob.com/)]
+[[typing club](https://www.edclub.com/sportal/)]
+[[exam crafts](https://examcrafts.com/)]
+[[知识麦田](https://zhishimt.com/)]
+[[奇迹秀](https://qijishow.com/)]
+[[萤火虫资源站](https://yhcres.top/)]
+[[cppdot题库](https://www.dotcpp.com/)]
+[[信管网](https://www.cnitpm.com/)]
+[[siki学院](https://www.sikiedu.com/)]
+[[new api](https://api.hcnsec.cn/)]
+[[arm win](https://arkt-7.github.io/woawin/)]
+[[可怜太可怜](https://yun.lian86.top/)]
+[[廖雪峰python网](https://liaoxuefeng.com/index.html)]
+[[free code camp](https://www.freecodecamp.org/)]
+[[W3School](https://www.w3school.com.cn/)]
+[[gitee_web](https://gitee.com/)]
+[[gitcode_web](https://gitcode.com/)]
