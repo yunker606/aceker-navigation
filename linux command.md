@@ -41,3 +41,7 @@ e.g.=6 (等于6个数据块，等于3k) <br>
 -type f（file文件） <br>
 -type d（directory文件夹） <br>
 -type l（link软链接） <br>
+## 更改文件属性
+chgrp -R （ 组 ) /aa/cc （-R是归递文件夹内所有文件，可以不加，同时只更改文件时不用加）
+chown -R user
+## rm ()
