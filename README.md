@@ -15,5 +15,5 @@ web & amp;notes <br>
 [[廖雪峰python网](https://liaoxuefeng.com/index.html)] <br>
 [[free code camp](https://www.freecodecamp.org/)] <br>
 [[W3School](https://www.w3school.com.cn/)] <br>
-[gitee_web](https://gitee.com/) <br>
-[gitcode_web](https://gitcode.com/) <br>
+[[gitee_web](https://gitee.com/)]<br>
+[[gitcode_web](https://gitcode.com/)]<br>
